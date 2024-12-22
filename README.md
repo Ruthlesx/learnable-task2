@@ -18,8 +18,8 @@ Version control also known as Source Control, is the practice of tracking and ma
 ## List 3 other Github alternatives
 
         Bitbucket
-        Helix
-        Mercury
+        GitLab
+        SourceForge
 
 
 ## Explain the difference between git fetch and git pull
@@ -41,7 +41,7 @@ Git rebase is a command used to integrate changes from one branch to another
  Git rebase is commonly used to keep new feature changes up-to-date with trunk changes.  
 
 
-The command for git rebase is: git rebase main
+        The command for git rebase is: git rebase main
 
 ## Explain in simple terms git cherry-pick and the command for it
 
@@ -49,4 +49,4 @@ The command for git rebase is: git rebase main
         branch and apply them to another branch without merging the entire branch
 
 
-The command for git cherry-pick is : git cherry-pick 
+        The command for git cherry-pick is : git cherry-pick 
